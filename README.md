@@ -44,3 +44,6 @@ npm run deploy
 - 🐱 **Gatos** – Buscador de razas con TheCatAPI
 - 🧠 **Curiosidades** – Datos fascinantes sobre animales
 - 📸 **Galería** – Fotos aleatorias en tiempo real
+
+VISUALIZACION 
+https://luffyapo93.github.io/animal_world/
